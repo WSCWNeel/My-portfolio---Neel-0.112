@@ -53,6 +53,12 @@
   }
 
   div {
-    animation: example 5s ease 1s infinite ease-in-out;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
   }
   
