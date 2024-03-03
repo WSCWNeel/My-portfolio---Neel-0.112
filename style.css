@@ -52,13 +52,8 @@
     color: #f1f1f1;
   }
 
-  div {
-    width: 100px;
-    height: 100px;
-    background: red;
-    position: relative;
-    animation-name: example;
-    animation-duration: 3s;
-    animation-delay: 2s;
-    animation-fill-mode: both;
-  }
+  #div1 {animation-timing-function: linear;}
+#div2 {animation-timing-function: ease;}
+#div3 {animation-timing-function: ease-in;}
+#div4 {animation-timing-function: ease-out;}
+#div5 {animation-timing-function: ease-in-out;}
