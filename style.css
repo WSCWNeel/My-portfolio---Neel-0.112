@@ -53,9 +53,6 @@
   }
 
   div {
-    transition-property: width;
-    transition-duration: 2s;
-    transition-timing-function: linear;
-    transition-delay: 1s;
+    transition: width 2s, height 2s, transform 2s;
   }
   
