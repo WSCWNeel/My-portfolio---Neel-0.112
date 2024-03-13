@@ -63,3 +63,8 @@
     margin:0;
 }
 /* ----- here if I don't want a gif background ----- */ 
+
+h6 {
+  color: #f1f1f1;
+  text-align: center;
+}
