@@ -70,11 +70,16 @@ h6 {
 }
 
 h3 {
-  color: #606060;
+  color: #f1f1f1;
   text-align: center;
 }
 
 li {
   color: #c1c1c1;
+  text-align: center;
+}
+
+h2 {
+  color: #f1f1f1;
   text-align: center;
 }
